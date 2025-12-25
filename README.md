@@ -36,7 +36,7 @@
 ### プロジェクトリンク
 - **フロントエンド リポジトリ**  
   https://github.com/Chengmc6/simple_park_management_frontend  
-  （Vercel でデプロイ済み：https://your-frontend.vercel.app ← ここに実際のURLを記入）
+  (Vercel でデプロイ済み：https://vercel.com/chengmc6s-projects/simple-park-management-frontend)
 
 - **バックエンド リポジトリ**  
   https://github.com/Chengmc6/simple_park_management_backend
